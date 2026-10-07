@@ -1,0 +1,4 @@
+window.CALORIE_SUPABASE = {
+  url: "https://fbwiptowmyvzjgwwxpkw.supabase.co",
+  publishableKey: "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImZid2lwdG93bXl2empnd3d4cGt3Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3OTEzOTgzOTEsImV4cCI6MjEwNjk3NDM5MX0.JMJeNV3joYXBJNXM1eC3zYcjoMyhtQNnPHdU5cFk7oU"
+};
